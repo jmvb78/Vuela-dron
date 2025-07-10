@@ -1,7 +1,3 @@
-# Vuela-dron
-Prevuelo postvuelo 
-# 🚁 App Agrícola de Dron – Prevuelo y Postvuelo
-
 Aplicación web interactiva para registrar y gestionar vuelos agrícolas con drones. Permite realizar checklists de seguridad prevuelo, registrar datos postvuelo y generar informes en PDF, incluyendo el área cubierta dibujada directamente en un mapa.
 
 ---
